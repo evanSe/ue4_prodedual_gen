@@ -1,2 +1,2 @@
 # ue4_prodedual_gen
-Procedual Generation for UE4
+Procedural generation for UE4
